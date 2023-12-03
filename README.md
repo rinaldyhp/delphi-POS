@@ -1,1 +1,0 @@
-# Delphi-Point-of-Sale

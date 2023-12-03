@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/12/03 20:21:32.556,=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\DelphiProject\Unit1.pas</Transaction>
+    <Transaction>2023/12/03 20:22:34.318,D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\UPOS_RinaldyHudanP.pas=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\DelphiProject\Unit1.pas</Transaction>
+    <Transaction>2023/12/03 20:22:34.318,D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\UPOS_RinaldyHudanP.dfm=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\DelphiProject\Unit1.dfm</Transaction>
+    <Transaction>2023/12/03 20:22:52.279,D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\PPOS_RinaldyHudanP.dproj=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\DelphiProject\Project1.dproj</Transaction>
+    <Transaction>2023/12/03 22:17:20.032,=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.pas</Transaction>
+    <Transaction>2023/12/03 22:24:28.273,D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\UMasterData.dfm=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.dfm</Transaction>
+    <Transaction>2023/12/03 22:24:28.273,D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\UMasterData.pas=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.pas</Transaction>
+    <Transaction>2023/12/03 22:29:04.525,=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 01:17:42.119,D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\UDM.dfm=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.dfm</Transaction>
+    <Transaction>2023/12/04 01:17:42.119,D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\UDM.pas=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 01:23:52.045,=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 01:25:09.063,D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\UBarang.pas=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 01:25:09.063,D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\UBarang.dfm=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.dfm</Transaction>
+    <Transaction>2023/12/04 01:28:53.416,=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 01:30:27.054,D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\USupplier.dfm=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.dfm</Transaction>
+    <Transaction>2023/12/04 01:30:27.054,D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\USupplier.pas=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 01:32:25.255,=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 01:34:40.212,D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\UCustomer.dfm=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.dfm</Transaction>
+    <Transaction>2023/12/04 01:34:40.212,D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\UCustomer.pas=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 01:35:17.021,=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 01:37:04.968,D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\UUnit.dfm=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.dfm</Transaction>
+    <Transaction>2023/12/04 01:37:04.968,D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\UUnit.pas=D:\Kegiatan Kuliah\Semester 9\Pemrograman Orientasi Object\POS\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
